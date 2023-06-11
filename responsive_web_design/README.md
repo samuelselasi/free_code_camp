@@ -14,9 +14,19 @@ Finally, you'll learn how to make webpages that respond to different screen size
 * You can use **HTML** tags to add photos, buttons, and other elements to your webpage.
 *In this course, you'll learn the most common **HTML** tags by building your own `cat photo app`*.
 
+**Screenshots**:
+
+![Screenshot from 2023-06-11 16-22-29](https://github.com/samuelselasi/free_code_camp/assets/85158665/a448327a-4ded-46db-bb7d-a669f31c05e8)
+
+![Screenshot from 2023-06-11 16-22-34](https://github.com/samuelselasi/free_code_camp/assets/85158665/f8bf53ad-04e3-4d83-8272-9dab0fba4a33)
+
+
 ### [2. Learn Basic CSS By Building a Cafe Menu](./cafe_menu.html)
 
-* **CSS** tells the browser how to display your webpage. 
+* **CSS** tells the browser how to display your webpage.
 * You can use **CSS** to set the color, font, size, and other aspects of **HTML** elements.
 
 *In this course, you'll learn **CSS** by designing a menu page for a `cafe webpage`*.
+
+**Screenshot**
+
