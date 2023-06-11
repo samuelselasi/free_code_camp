@@ -31,3 +31,11 @@ Finally, you'll learn how to make webpages that respond to different screen size
 **Screenshot**
 
 ![Screenshot from 2023-06-11 18-08-43](https://github.com/samuelselasi/free_code_camp/assets/85158665/91171cd7-e859-43ce-a71d-376814910608)
+
+### [3. Learn CSS Colors By Building a Set of Colored Markers](./colored_markers.html)
+
+* Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
+
+*In this course, you'll build a set of `colored markers`. You'll learn different ways to set color values and how to pair colors with each other*.
+
+**Screenshot**
