@@ -28,7 +28,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 *In this course, you'll learn **CSS** by designing a menu page for a `cafe webpage`*.
 
-**Screenshot**
+**Screenshot**:
 
 ![Screenshot from 2023-06-11 18-08-43](https://github.com/samuelselasi/free_code_camp/assets/85158665/91171cd7-e859-43ce-a71d-376814910608)
 
@@ -38,4 +38,6 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 *In this course, you'll build a set of `colored markers`. You'll learn different ways to set color values and how to pair colors with each other*.
 
-**Screenshot**
+**Screenshot**:
+
+![Screenshot from 2023-06-11 22-55-17](https://github.com/samuelselasi/free_code_camp/assets/85158665/47073eb9-b6a4-4c96-92e1-db2198afb453)
