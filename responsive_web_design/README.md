@@ -50,5 +50,8 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 You'll learn how to control what types of data people can type into your form, and some new **CSS** tools for styling your page.
 
-**Screenshot**:
+**Screenshots**:
 
+![Screenshot from 2023-06-13 00-58-11](https://github.com/samuelselasi/free_code_camp/assets/85158665/54298fc0-9b78-4bbd-b665-2650d9f5a8ae)
+
+![Screenshot from 2023-06-13 00-58-14](https://github.com/samuelselasi/free_code_camp/assets/85158665/42262303-f2da-4145-92bf-81a492035cb2)
