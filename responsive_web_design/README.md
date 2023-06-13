@@ -41,3 +41,14 @@ Finally, you'll learn how to make webpages that respond to different screen size
 **Screenshot**:
 
 ![Screenshot from 2023-06-11 22-55-17](https://github.com/samuelselasi/free_code_camp/assets/85158665/47073eb9-b6a4-4c96-92e1-db2198afb453)
+
+### [4. Learn HTML Forms By Building a Registration Form](./registration_form.html)
+
+* You can use **HTML** forms to collect information from people who visit your webpage.
+
+*In this course, you'll learn **HTML** forms by building a signup page.* 
+
+You'll learn how to control what types of data people can type into your form, and some new **CSS** tools for styling your page.
+
+**Screenshot**:
+
