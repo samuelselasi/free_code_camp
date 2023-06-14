@@ -66,3 +66,12 @@ You'll learn how to control what types of data people can type into your form, a
 
 ![Screenshot from 2023-06-14 15-54-41](https://github.com/samuelselasi/free_code_camp/assets/85158665/9d00aa57-2b20-4af6-8955-e4f8c941db59)
 
+
+### [Learn The CSS Box Model by Building a Rothko Painting](./rothko-painting)
+
+* Every **HTML** element is its own box – with its own `spacing` and a `border`. This is called the `Box Model`.
+
+*In this course, you'll use **CSS** and the Box Model to create your own `Rothko-style` rectangular art pieces.*
+
+**Screenshot**:
+
