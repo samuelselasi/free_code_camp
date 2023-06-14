@@ -67,7 +67,7 @@ You'll learn how to control what types of data people can type into your form, a
 ![Screenshot from 2023-06-14 15-54-41](https://github.com/samuelselasi/free_code_camp/assets/85158665/9d00aa57-2b20-4af6-8955-e4f8c941db59)
 
 
-### [6. Learn The CSS Box Model by Building a Rothko Painting](./rothko-painting)
+### [6. Learn The CSS Box Model By Building a Rothko Painting](./rothko-painting)
 
 * Every **HTML** element is its own box – with its own `spacing` and a `border`. This is called the `Box Model`.
 
@@ -76,4 +76,13 @@ You'll learn how to control what types of data people can type into your form, a
 **Screenshot**:
 
 ![Screenshot from 2023-06-14 18-10-42](https://github.com/samuelselasi/free_code_camp/assets/85158665/2aed6908-b089-4cd4-b1f0-ccba5bac75f1)
+
+
+### [7. Learn CSS Flexbox By Building a Photo Gallery](./photo-gallery)
+
+* `Flexbox` helps you design your webpage so that it looks good on any screen size.
+
+*In this course, you'll use `Flexbox` to build a responsive photo gallery webpage.*
+
+**Screenshots**:
 
