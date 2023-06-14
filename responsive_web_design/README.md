@@ -8,7 +8,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ## Courses
 
-### [1. Learn HTML by building a Cat Photo App](./cat_photo_app.html)
+### [1. Learn HTML by building a Cat Photo App](./cat-photo-app)
 
 * **HTML** tags give a webpage its structure. 
 * You can use **HTML** tags to add photos, buttons, and other elements to your webpage.
@@ -21,7 +21,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 ![Screenshot from 2023-06-11 16-22-34](https://github.com/samuelselasi/free_code_camp/assets/85158665/f8bf53ad-04e3-4d83-8272-9dab0fba4a33)
 
 
-### [2. Learn Basic CSS By Building a Cafe Menu](./cafe_menu.html)
+### [2. Learn Basic CSS By Building a Cafe Menu](./cafe-menu)
 
 * **CSS** tells the browser how to display your webpage.
 * You can use **CSS** to set the color, font, size, and other aspects of **HTML** elements.
@@ -32,7 +32,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ![Screenshot from 2023-06-11 18-08-43](https://github.com/samuelselasi/free_code_camp/assets/85158665/91171cd7-e859-43ce-a71d-376814910608)
 
-### [3. Learn CSS Colors By Building a Set of Colored Markers](./colored_markers.html)
+### [3. Learn CSS Colors By Building a Set of Colored Markers](./colored-markers)
 
 * Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 
@@ -42,7 +42,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 ![Screenshot from 2023-06-11 22-55-17](https://github.com/samuelselasi/free_code_camp/assets/85158665/47073eb9-b6a4-4c96-92e1-db2198afb453)
 
-### [4. Learn HTML Forms By Building a Registration Form](./registration_form.html)
+### [4. Learn HTML Forms By Building a Registration Form](./registration-fom)
 
 * You can use **HTML** forms to collect information from people who visit your webpage.
 
@@ -56,7 +56,7 @@ You'll learn how to control what types of data people can type into your form, a
 
 ![Screenshot from 2023-06-13 00-58-14](https://github.com/samuelselasi/free_code_camp/assets/85158665/42262303-f2da-4145-92bf-81a492035cb2)
 
-### [5. First Certification Project: Survey Form](./survey-form.html)
+### [5. First Certification Project: Survey Form](./survey-form)
 
 * Build a survey form to collect data from users
 
