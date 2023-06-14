@@ -75,3 +75,5 @@ You'll learn how to control what types of data people can type into your form, a
 
 **Screenshot**:
 
+![Screenshot from 2023-06-14 18-10-42](https://github.com/samuelselasi/free_code_camp/assets/85158665/2aed6908-b089-4cd4-b1f0-ccba5bac75f1)
+
