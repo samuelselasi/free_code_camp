@@ -91,7 +91,7 @@ You'll learn how to control what types of data people can type into your form, a
 ![Screenshot from 2023-06-14 20-50-17](https://github.com/samuelselasi/free_code_camp/assets/85158665/a873abee-5b6a-408a-ae1f-caea5fc73be5)
 
 
-### [Learn Typography By Building a NUtrition Label](./nutrition_label.css)
+### [8. Learn Typography By Building a NUtrition Label](./nutrition_label.css)
 
 * `Typography` is the art of styling your text to be easily readable and suit its purpose.
 
