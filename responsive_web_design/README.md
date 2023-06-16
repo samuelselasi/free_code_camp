@@ -86,3 +86,7 @@ You'll learn how to control what types of data people can type into your form, a
 
 **Screenshots**:
 
+![Screenshot from 2023-06-14 20-50-11](https://github.com/samuelselasi/free_code_camp/assets/85158665/f9fac562-4a37-4370-a475-70c1b59d9a46)
+
+![Screenshot from 2023-06-14 20-50-17](https://github.com/samuelselasi/free_code_camp/assets/85158665/a873abee-5b6a-408a-ae1f-caea5fc73be5)
+
