@@ -100,3 +100,5 @@ You'll learn how to control what types of data people can type into your form, a
 **Screenshot**:
 
 ![Screenshot from 2023-06-16 21-24-23](https://github.com/samuelselasi/free_code_camp/assets/85158665/6a00df22-7a62-4ac3-886b-d4cd58a9946f)
+
+### [Learn Accessibility By Building a Quiz](./accessibility-quiz)
