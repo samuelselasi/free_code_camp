@@ -101,4 +101,11 @@ You'll learn how to control what types of data people can type into your form, a
 
 ![Screenshot from 2023-06-16 21-24-23](https://github.com/samuelselasi/free_code_camp/assets/85158665/6a00df22-7a62-4ac3-886b-d4cd58a9946f)
 
-### [Learn Accessibility By Building a Quiz](./accessibility-quiz)
+### [9. Learn Accessibility By Building a Quiz](./accessibility-quiz)
+
+* Accessibility is making your webpage easy for all people to use – even people with disabilities.
+
+*In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, `ARIA` attributes, and design best practices*.
+
+**Screenshots**:
+
