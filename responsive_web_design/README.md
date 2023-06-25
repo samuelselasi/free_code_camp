@@ -120,3 +120,14 @@ You'll learn how to control what types of data people can type into your form, a
 ### [10. Second Certification Project: Tribute Page](./tribute-page)
 
 * Build a Tribute Page
+**Screenshots**:
+  
+![Screenshot from 2023-06-25 18-25-04](https://github.com/samuelselasi/free_code_camp/assets/85158665/9766968b-d203-4624-822a-9b8c222d1c80)
+
+![Screenshot from 2023-06-25 18-25-09](https://github.com/samuelselasi/free_code_camp/assets/85158665/407e68b6-0713-467f-930d-207e78f297d4)
+
+![Screenshot from 2023-06-25 18-25-13](https://github.com/samuelselasi/free_code_camp/assets/85158665/2e65b58c-abf8-490b-aa6f-3f86dfe146bc)
+
+![Screenshot from 2023-06-25 18-25-16](https://github.com/samuelselasi/free_code_camp/assets/85158665/43134358-9987-4bcb-8279-d295d12e26ac)
+
+![Screenshot from 2023-06-25 18-25-28](https://github.com/samuelselasi/free_code_camp/assets/85158665/06923ec6-876d-4832-a15b-59fe48e089b3)
