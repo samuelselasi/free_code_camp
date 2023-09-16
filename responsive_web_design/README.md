@@ -147,5 +147,8 @@ You'll learn how to control what types of data people can type into your form, a
 * Build a Technical Documentation Page
 **Screenshots**
 
+![Screenshot from 2023-09-16 23-10-42](https://github.com/samuelselasi/free_code_camp/assets/85158665/e80a378c-3774-408b-815e-5ae609ca2c87)
 
+![Screenshot from 2023-09-16 23-10-45](https://github.com/samuelselasi/free_code_camp/assets/85158665/091813d8-1b8e-4360-9da3-6dc8e2d193bf)
 
+![Screenshot from 2023-09-16 23-10-48](https://github.com/samuelselasi/free_code_camp/assets/85158665/e4c896f0-6470-41f5-9c6a-d160124c9637)
