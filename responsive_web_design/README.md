@@ -136,5 +136,9 @@ You'll learn how to control what types of data people can type into your form, a
 
 * Build a Personal Portfolio Webpage
 **Screenshots**
+  
+![Screenshot from 2023-09-16 23-04-33](https://github.com/samuelselasi/free_code_camp/assets/85158665/fbb9960e-dabc-4302-9309-841b900c68c6)
 
+![Screenshot from 2023-09-16 23-04-39](https://github.com/samuelselasi/free_code_camp/assets/85158665/d4699943-07a4-4657-b410-b21b6def865e)
 
+![Screenshot from 2023-09-16 23-04-43](https://github.com/samuelselasi/free_code_camp/assets/85158665/d6357b4b-33f1-4070-890f-5fafb331c89c)
